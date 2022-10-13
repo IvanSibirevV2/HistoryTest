@@ -1,0 +1,133 @@
+\hypertarget{_main_window_8xaml_8cs_source}{}\doxysection{Main\+Window.\+xaml.\+cs}
+\label{_main_window_8xaml_8cs_source}\index{C:/D/WpfApp1/MainWindow.xaml.cs@{C:/D/WpfApp1/MainWindow.xaml.cs}}
+\mbox{\hyperlink{_main_window_8xaml_8cs}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00001}00001 \textcolor{keyword}{using} System;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00002}00002 \textcolor{keyword}{using} System.Collections.Generic;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00003}00003 \textcolor{keyword}{using} System.Linq;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00004}00004 \textcolor{keyword}{using} System.Text;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00005}00005 \textcolor{keyword}{using} System.Threading.Tasks;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00006}00006 \textcolor{keyword}{using} System.Windows;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00007}00007 \textcolor{keyword}{using} System.Windows.Controls;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00008}00008 \textcolor{keyword}{using} System.Windows.Data;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00009}00009 \textcolor{keyword}{using} System.Windows.Documents;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00010}00010 \textcolor{keyword}{using} System.Windows.Input;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00011}00011 \textcolor{keyword}{using} System.Windows.Media;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00012}00012 \textcolor{keyword}{using} System.Windows.Media.Imaging;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00013}00013 \textcolor{keyword}{using} System.Windows.Navigation;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00014}00014 \textcolor{keyword}{using} System.Windows.Shapes;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00015}00015 \textcolor{keyword}{using} System.Data.SQLite;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00016}00016 }
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00017}00017 }
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00018}00018 \textcolor{keyword}{namespace }\mbox{\hyperlink{namespace_wpf_app1}{WpfApp1}}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00019}00019 \{}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00020}00020     \textcolor{keyword}{public} \textcolor{keyword}{static} \textcolor{keyword}{class }Ext\_Set}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00021}00021     \{}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00022}00022         \textcolor{keyword}{public} \textcolor{keyword}{static} T Set<T>(\textcolor{keyword}{this} T \_this, System.Action<T> \_act) \{ \_act(\_this); \textcolor{keywordflow}{return} \_this; \}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00023}00023     \}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00027}\mbox{\hyperlink{class_wpf_app1_1_1_main_window}{00027}}     \textcolor{keyword}{public} \textcolor{keyword}{partial class }\mbox{\hyperlink{class_wpf_app1_1_1_main_window}{MainWindow}} : Window}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00028}00028     \{}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00029}\mbox{\hyperlink{class_wpf_app1_1_1_main_window_a114e0acb9b0b6367f97f8bff016cc4ac}{00029}}         \textcolor{keyword}{public} \mbox{\hyperlink{class_wpf_app1_1_1_main_window_a114e0acb9b0b6367f97f8bff016cc4ac}{MainWindow}}()}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00030}00030         \{}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00031}00031             \mbox{\hyperlink{class_wpf_app1_1_1_main_window_a0fb64bef05a6a3083a81c5e57ea937a9}{InitializeComponent}}();}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00032}00032             \textcolor{comment}{//p\_StackPanel.Children.Add(new TextBlock() \{ Text = "{}re"{} \});}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00033}00033             \textcolor{comment}{//p\_StackPanel.Children.Add(new TextBlock() \{ Text = "{}re"{} \});}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00034}00034             ;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00035}00035             \textcolor{comment}{//var qwe =(new SQL("{}SELECT * from Answer"{}).ExecuteReader());}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00036}00036             \textcolor{comment}{/*}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00037}00037 \textcolor{comment}{            (new SQL("{}SELECT * from Test"{}).ExecuteReader())}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00038}00038 \textcolor{comment}{                .ForEach(a =>}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00039}00039 \textcolor{comment}{                \{}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00040}00040 \textcolor{comment}{}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00041}00041 \textcolor{comment}{                    a.ForEach(b =>}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00042}00042 \textcolor{comment}{                    \{}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00043}00043 \textcolor{comment}{                        p\_StackPanel.Children.Add(new TextBlock() \{ Text = b.ToString() \}); ;}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00044}00044 \textcolor{comment}{}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00045}00045 \textcolor{comment}{                    \});}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00046}00046 \textcolor{comment}{                \});}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00047}00047 \textcolor{comment}{            */}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00048}00048             \textcolor{comment}{//< TextBlock > Однажды в студеную зимнюю пору...</ TextBlock >}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00049}00049         \}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00050}00050         \textcolor{keyword}{private} System.Windows.Controls.StackPanel GetAnswer\_StackPanel(\textcolor{keywordtype}{string} TextId) }
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00051}00051         \{}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00052}00052             StackPanel \_StackPanel = \textcolor{keyword}{new} StackPanel();}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00053}00053             \textcolor{keyword}{new} \mbox{\hyperlink{class_wpf_app1_1_1_s_q_l}{SQL}}(}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00054}00054                 \textcolor{stringliteral}{"{}SELECT Answer.ID, Answer.Text, Answer.IsTrue  From QuestionAnswer LEFT JOIN Answer WHERE QuestionAnswer.QuestionId = "{}} + TextId + \textcolor{stringliteral}{"{} AND Answer.Id = QuestionAnswer.AnswerId"{}}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00055}00055                 }
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00056}00056                 ).\mbox{\hyperlink{class_wpf_app1_1_1_s_q_l_acd86c877de0e4332c2011aea171e91d5}{ExecuteReader}}()}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00057}00057                 .Select(ListString\_Question =>}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00058}00058                 \{}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00059}00059                     WrapPanel \_WrapPanel = \textcolor{keyword}{new} WrapPanel();}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00060}00060                     \_WrapPanel.Children.Add(\textcolor{keyword}{new} TextBlock() \{ Text = ListString\_Question[0]+\textcolor{stringliteral}{"{} "{}}+ListString\_Question[1] \});}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00061}00061                     \_WrapPanel.Children.Add(\textcolor{keyword}{new} CheckBox());}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00062}00062                     \textcolor{keywordflow}{return} \_WrapPanel;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00063}00063                     \textcolor{comment}{//return new TextBlock() \{ Text = ListString\_Question[0] + "{} "{} + ListString\_Question[1] \};}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00064}00064                 \}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00065}00065                 ).ToList().ForEach(a => \_StackPanel.Children.Add(a))}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00066}00066             ;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00067}00067             \textcolor{keywordflow}{return} \_StackPanel;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00068}00068         \}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00069}00069         \textcolor{keyword}{private} System.Windows.Controls.StackPanel GetQuestions\_StackPanel(\textcolor{keywordtype}{string} TextId) }
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00070}00070         \{}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00071}00071             StackPanel \_StackPanel = \textcolor{keyword}{new} StackPanel();}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00072}00072             \textcolor{keyword}{new} SQL(\textcolor{stringliteral}{"{}SELECT Question.Id, Question.Text from TestQuestion LEFT JOIN  Question  WHERE(TestQuestion.TestId = "{}} + TextId + \textcolor{stringliteral}{"{}) and(TestQuestion.QuestionId = Question.Id)"{}}).ExecuteReader()}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00073}00073                 .Select(ListString\_Question => }
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00074}00074                     \textcolor{keyword}{new} Expander()}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00075}00075                     \{}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00076}00076                         Header = ListString\_Question[0]+\textcolor{stringliteral}{"{} "{}}+ ListString\_Question[1],}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00077}00077                         Content= GetAnswer\_StackPanel(ListString\_Question[0])}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00078}00078                     \}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00079}00079                 ).ToList().ForEach(a => \_StackPanel.Children.Add(a))}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00080}00080             ;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00081}00081             \textcolor{keywordflow}{return} \_StackPanel;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00082}00082         \}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00083}00083         \textcolor{keyword}{private} \textcolor{keywordtype}{void} Window\_Loaded(\textcolor{keywordtype}{object} sender, RoutedEventArgs e)}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00084}00084         \{}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00085}00085             (\textcolor{keyword}{new} SQL(\textcolor{stringliteral}{"{}SELECT Id,Text from Test;"{}}).ExecuteReader())}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00086}00086                 .Select(ListString\_Test =>}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00087}00087                      \textcolor{keyword}{new} Expander() }
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00088}00088                      \{}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00089}00089                         Header = ListString\_Test[0]+\textcolor{stringliteral}{"{} "{}}+ ListString\_Test[1],}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00090}00090                         Content = GetQuestions\_StackPanel(ListString\_Test[0])}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00091}00091                     \}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00092}00092                 )}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00093}00093                 .ToList().ForEach(a => p\_StackPanel.Children.Add(a));}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00094}00094             ;}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00095}00095             \textcolor{comment}{/*}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00096}00096 \textcolor{comment}{                .ForEach(\_TestRow =>}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00097}00097 \textcolor{comment}{                \{}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00098}00098 \textcolor{comment}{                    /*}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00099}00099 \textcolor{comment}{                    p\_StackPanel.Add(}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00100}00100 \textcolor{comment}{                        (new Expander() \{ Header = \_TestRow[1].ToString() \})}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00101}00101 \textcolor{comment}{                        .Set(\_Expander=> \{}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00102}00102 \textcolor{comment}{                            \_Expander.Content = (new StackPanel()).Children.Add}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00103}00103 \textcolor{comment}{                                }}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00104}00104 \textcolor{comment}{                            ;}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00105}00105 \textcolor{comment}{                        \})}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00106}00106 \textcolor{comment}{                    ) ;}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00107}00107 \textcolor{comment}{                    }}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00108}00108 \textcolor{comment}{                \});}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00109}00109 \textcolor{comment}{            */}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00110}00110             \textcolor{comment}{/*}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00111}00111 \textcolor{comment}{            (new SQLiteConnection("{}Data Source=DB\_Test.db"{})).Set(connection => \{}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00112}00112 \textcolor{comment}{                connection.CreateCommand().Set(command=> \{}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00113}00113 \textcolor{comment}{                    command.CommandText = "{}SqlComand"{};}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00114}00114 \textcolor{comment}{                    (new System.Data.SQLite.SQLiteDataAdapter(command))}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00115}00115 \textcolor{comment}{                        .Set(adapter=>}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00116}00116 \textcolor{comment}{                        \{}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00117}00117 \textcolor{comment}{                            //adapter.InsertCommand.CommandType = CommandType.StoredProcedure}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00118}00118 \textcolor{comment}{                            System.Data.DataSet \_DataSet =new System.Data.DataSet();}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00119}00119 \textcolor{comment}{                            adapter.Fill(p\_Tests);}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00120}00120 \textcolor{comment}{                        \});}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00121}00121 \textcolor{comment}{                \});}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00122}00122 \textcolor{comment}{            \})}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00123}00123 \textcolor{comment}{            ;}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00124}00124 \textcolor{comment}{            //SQLiteConnection connection = ;}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00125}00125 \textcolor{comment}{            //SQLiteCommand command = connection.CreateCommand();}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00126}00126 \textcolor{comment}{            */}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00127}00127 }
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00128}00128         \}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00129}00129     \}}
+\DoxyCodeLine{\Hypertarget{_main_window_8xaml_8cs_source_l00130}00130 \}}
+
+\end{DoxyCode}

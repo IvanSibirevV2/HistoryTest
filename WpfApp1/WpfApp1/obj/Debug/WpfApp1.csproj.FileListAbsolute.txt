@@ -1,0 +1,96 @@
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.dll
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.xml
+C:\D\Git_Hub\HowTo_CSharp\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.dll
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.xml
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.dll
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.xml
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\D\YandexDisk\Преподавание2021_V2\Обменка\Разработка программных модулей\Инд_2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\D\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\D\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\D\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\D\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\D\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\D\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.dll
+C:\D\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\D\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\D\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\D\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\D\WpfApp1\WpfApp1\bin\Debug\System.Data.SQLite.xml
+C:\D\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\D\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\D\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\D\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\D\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\D\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\D\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\D\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\D\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\D\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\D\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\D\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\D\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
