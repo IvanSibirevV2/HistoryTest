@@ -59,6 +59,7 @@ namespace WpfApp1
         public List<List<String>> ExecuteReader()
         {
             List<List<String>> ListListString = new List<List<String>>();
+            
             connection.Open(); SQLiteCommand command = connection.CreateCommand();
             command.CommandText = CommandText;
             using (SQLiteDataReader reader = command.ExecuteReader())
